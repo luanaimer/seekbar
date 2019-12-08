@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">seekBar</string>
+    <string name="porcentagem_inicial">15%</string>
+</resources>
